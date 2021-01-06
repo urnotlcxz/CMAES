@@ -1,0 +1,10 @@
+
+ -- Wed May 13 21:43:28 2020
+ cmaes_ReadFromFile(): could not open 'cmaes_initials.par'
+
+ -- Wed May 13 21:43:28 2020
+ cmaes_readpara_t(): problem dimension N undefined.
+  (no default value available).
+
+ -- Wed May 13 21:43:28 2020
+ *** Exiting cmaes_t ***
